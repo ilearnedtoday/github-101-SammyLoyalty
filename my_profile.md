@@ -1,5 +1,5 @@
 # MY PROFILE :man:
- :waving: hey! I'm **Samson Kwizela**.
+ :wave: hey! I'm **Samson Kwizela**.
 
  ## Whos is Samson? :thinking:
  - well, I'm the strongest man, obviously you know that, but in coding this time and era :laughing:.
@@ -38,4 +38,4 @@ knowledge is :infinity:
 ### REACH ME:
 - [facebook](https://web.facebook.com/?_rdc=1&_rdr)
 - [linkedin](https://www.linkedin.com/search/results/people/?firstName=Samson&lastName=Kwizera&origin=SEO_PSERP)
--[GitHub](https://github.com/SammyLoyalty/Ethical-hacking)
+- [GitHub](https://github.com/SammyLoyalty/Ethical-hacking)
