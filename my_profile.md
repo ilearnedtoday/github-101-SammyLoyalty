@@ -19,7 +19,7 @@
 2. currently learning **JS**.
      
 ### MY Interest.
-- **I'm interested in learning the **FULLSTUCK**, thats my aim** :strong:
+- **I'm interested in learning the **FULL STACK**, thats my aim** :strong:
 - **Exlore the AI study, maybe creat one some day** :smiel:
 - **Networking.**
 - **Ethical Hacking**
