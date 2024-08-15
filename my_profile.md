@@ -11,7 +11,7 @@
 - I started liking **computer work** when i was in grade nine(9), i was my highest grade, in **2019**. 
 - shortcomes, my interest in computing droped when i was i was chased from the computer lab by my teacher because  i was not chosen to go there. :crying:
 - I gained my stamina back when i met [Tr Olivier](https://www.linkedin.com/in/olivierjm/?originalSubdomain=zm) in **2021** during an enterprenure seminor. 
-- In **2022**, [Desire]() sacrificed his time to teach us programming, that's when i started my **HTML** and **CSS**.
+- In **2022**, [Desire](https://github.com/Deewiliams) sacrificed his time to teach us programming, that's when i started my **HTML** and **CSS**.
  they played a big role in my programming journey. :pray:
 
 ### What do I Know :question:
