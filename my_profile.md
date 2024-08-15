@@ -1,9 +1,11 @@
 # MY PROFILE :man:
  :wave: hey! I'm **Samson Kwizela**.
 
+ **Thank you for checking up on me** :smile:
+
  ## Whos is Samson? :thinking:
  - well, I'm the strongest man, obviously you know that, but in coding this time and era :laughing:.
- - Based in **Zambia**, The Land of **work** and **joy** :smile:
+ - Based in **Zambia** :zambia:, The Land of **work** and **joy** :smile:
 
 - I'm a **computer science** :computer: *student at Cavendish University zambia*.
 
